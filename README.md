@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills<br>🤝 I’m looking for help with exploring new technologies<br>🌱 I’m currently working on ReactJS,NodeJS,ExpressJS,MongoDB,Javascript,typeScript,nextJs,digitalOcean,Cyberpannel,mysql<br>⚡ Fun fact I click tabs over space
+🔭 I’m currently working on my skills<br>🤝 I’m looking for help with exploring new technologies<br>🌱 I’m currently working on ReactJS,NodeJS,ExpressJS,MongoDB,Javascript,typeScript,nextJs,digitalOcean,Cyberpannel,mysql<br>⚡ Fun fact I click tabs over space<br>🏆 Goal: Be the person I needed when I was younger
 
 
 ## 🌐 Socials:
